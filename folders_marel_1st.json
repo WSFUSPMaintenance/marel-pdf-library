@@ -1,3 +1,238 @@
 {
-  "folders": []
+  "folders": [
+    {
+      "name": "00 Marel Equipment Training",
+      "path": "pdf/Marel/1st Processing/00 Marel Equipment Training",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/00 Marel Equipment Training", "files": [] }
+      ]
+    },
+    {
+      "name": "1 - General Information",
+      "path": "pdf/Marel/1st Processing/1 - general information",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/1 - general information", "files": [] }
+      ]
+    },
+    {
+      "name": "2 - B0124 Track Chain Lubricator",
+      "path": "pdf/Marel/1st Processing/2 - B0124 track chain lubricator",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/2 - B0124 track chain lubricator", "files": [] }
+      ]
+    },
+    {
+      "name": "3 - B0161 Overhead Conveyor Heavy Duty",
+      "path": "pdf/Marel/1st Processing/3 - B0161 overhead conveyor, Heavy Duty type",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/3 - B0161 overhead conveyor, Heavy Duty type", "files": [] }
+      ]
+    },
+    {
+      "name": "4 - B2728 Transfer System TRD-E F5",
+      "path": "pdf/Marel/1st Processing/4 - B2728 Transfer System, TRD-E F5 (11) 8",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/4 - B2728 Transfer System, TRD-E F5 (11) 8", "files": [] }
+      ]
+    },
+    {
+      "name": "5 - C0225 Viscera Shackle PC Nuova",
+      "path": "pdf/Marel/1st Processing/5 - C0225 viscera shackle PC Nuova",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/5 - C0225 viscera shackle PC Nuova", "files": [] }
+      ]
+    },
+    {
+      "name": "6 - C0239 Evisc Shackle ESPC Nuova SHD",
+      "path": "pdf/Marel/1st Processing/6 - C0239 evisc. shackle ESPC Nuova SHD",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/6 - C0239 evisc. shackle ESPC Nuova SHD", "files": [] }
+      ]
+    },
+    {
+      "name": "7 - C0706 High Pressure Water Pump",
+      "path": "pdf/Marel/1st Processing/7 - C0706 High-Pressure Water Pump",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/7 - C0706 High-Pressure Water Pump", "files": [] }
+      ]
+    },
+    {
+      "name": "8 - C0713 HP Water Pump 11kW",
+      "path": "pdf/Marel/1st Processing/8 - C0713 HP Water Pump 11kW (15hp)",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/8 - C0713 HP Water Pump 11kW (15hp)", "files": [] }
+      ]
+    },
+    {
+      "name": "9 - C0969 Vent Cutter VC-15 RS",
+      "path": "pdf/Marel/1st Processing/9 - C0969 vent cutter VC-15 RS",
+      "categories": [
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/9 - C0969 vent cutter VC-15 RS",
+          "files": [
+            { "title": "90831_01_E_ENG", "file": "90831_01_E_ENG.pdf" },
+            { "title": "3691619_00_D", "file": "3691619_00_D.pdf" },
+            { "title": "C0706 High Pressure Water Pump", "file": "C0706 High Pressure Water Pump.pdf" },
+            { "title": "C0969 VC-15 RS Vent Cutter", "file": "C0969 VC-15 RS Vent Cutter.pdf" },
+            { "title": "Sparepart Book 4693147", "file": "Sparepart-book 4693147 ENG_20191023_174018.pdf" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "10 - C1076 Opening Machine VO-15 RS",
+      "path": "pdf/Marel/1st Processing/10 - C1076 Opening Machine VO-15 RS",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/10 - C1076 Opening Machine VO-15 RS", "files": [] }
+      ]
+    },
+    {
+      "name": "11 - C1148 Nuova 18",
+      "path": "pdf/Marel/1st Processing/11 - C1148 Nuova 18 (8)",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/11 - C1148 Nuova 18 (8)", "files": [] }
+      ]
+    },
+    {
+      "name": "12 - C1238 Intestine Pack Unloading Station",
+      "path": "pdf/Marel/1st Processing/12 - C1238 Intestine Pack Unloading Station",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/12 - C1238 Intestine Pack Unloading Station", "files": [] }
+      ]
+    },
+    {
+      "name": "13 - C1298 Control System for EV Line",
+      "path": "pdf/Marel/1st Processing/13 - C1298 Control system for EV line",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/13 - C1298 Control system for EV line", "files": [] }
+      ]
+    },
+    {
+      "name": "14 - C1316 NPIS Inspection Station",
+      "path": "pdf/Marel/1st Processing/14 - C1316 NPIS Inspection station",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/14 - C1316 NPIS Inspection station", "files": [] }
+      ]
+    },
+    {
+      "name": "15 - C1325 GAM Pneumatic Adjust Stand",
+      "path": "pdf/Marel/1st Processing/15 - C1325 GAM Pneu. adj. stand",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/15 - C1325 GAM Pneu. adj. stand", "files": [] }
+      ]
+    },
+    {
+      "name": "16 - C1505 Intestine Gall Bladder Remover",
+      "path": "pdf/Marel/1st Processing/16 - C1505 IntestineGall-BladderRemover",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/16 - C1505 IntestineGall-BladderRemover", "files": [] }
+      ]
+    },
+    {
+      "name": "17 - C1524 Liver Harvester PLH-15 RS",
+      "path": "pdf/Marel/1st Processing/17 - C1524 Liver harvester PLH-15 RS",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/17 - C1524 Liver harvester PLH-15 RS", "files": [] }
+      ]
+    },
+    {
+      "name": "18 - C1534 Gizzard Cutter PFC",
+      "path": "pdf/Marel/1st Processing/18 - C1534 gizz. cutter PFC",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/18 - C1534 gizz. cutter PFC", "files": [] }
+      ]
+    },
+    {
+      "name": "19 - C1902 Gizzard Washer Screw C2003",
+      "path": "pdf/Marel/1st Processing/19 - C1902 gizz washer screw C2003",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/19 - C1902 gizz washer screw C2003", "files": [] }
+      ]
+    },
+    {
+      "name": "20 - C2003 Gizzard Inspection Table HP",
+      "path": "pdf/Marel/1st Processing/20 - C2003 gizz. insp.peel table HP",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/20 - C2003 gizz. insp.peel table HP", "files": [] }
+      ]
+    },
+    {
+      "name": "21 - C3067 NIC-18V RS IO Wash",
+      "path": "pdf/Marel/1st Processing/21 - C3067 NIC-18V RS io wash",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/21 - C3067 NIC-18V RS io wash", "files": [] }
+      ]
+    },
+    {
+      "name": "22 - C3739 Final Inspection Machine FIM RotoVac 15 RS",
+      "path": "pdf/Marel/1st Processing/22 - C3739 Final insp. mach. FIM RotoVac 15 RS",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/22 - C3739 Final insp. mach. FIM RotoVac 15 RS", "files": [] }
+      ]
+    },
+    {
+      "name": "23 - C3841 Insouts Washer RW-12 RS",
+      "path": "pdf/Marel/1st Processing/23 - C3841 insouts washer RW-12 RS",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/23 - C3841 insouts washer RW-12 RS", "files": [] }
+      ]
+    },
+    {
+      "name": "24 - C4005 Unloading Station BR3 HS",
+      "path": "pdf/Marel/1st Processing/24 - C4005 unloading station BR3 HS",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/24 - C4005 unloading station BR3 HS", "files": [] }
+      ]
+    },
+    {
+      "name": "25 - C5311 Shackle Washer L Shackle Guide",
+      "path": "pdf/Marel/1st Processing/25 - C5311 shackle washer L shackle guide",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/25 - C5311 shackle washer L shackle guide", "files": [] }
+      ]
+    },
+    {
+      "name": "26 - D2609 VAC C2x800 FIM-20",
+      "path": "pdf/Marel/1st Processing/26 - D2609 VAC C2x800 FIM-20",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/26 - D2609 VAC C2x800 FIM-20", "files": [] }
+      ]
+    },
+    {
+      "name": "27 - D2617 Vacuum Installation VAC-160",
+      "path": "pdf/Marel/1st Processing/27 - D2617 Vacuum Installation VAC-160",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/27 - D2617 Vacuum Installation VAC-160", "files": [] }
+      ]
+    },
+    {
+      "name": "28 - D2618 Vacuum Installation",
+      "path": "pdf/Marel/1st Processing/28 - D2618 Vacuum installation",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/28 - D2618 Vacuum installation", "files": [] }
+      ]
+    },
+    {
+      "name": "29 - E2011 Drum Washer LW for Livers",
+      "path": "pdf/Marel/1st Processing/29 - E2011 drum washer LW for livers",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/29 - E2011 drum washer LW for livers", "files": [] }
+      ]
+    },
+    {
+      "name": "30 - J1823 Flex Belt Conveyor W450 Meat",
+      "path": "pdf/Marel/1st Processing/30 - J1823 flex belt conv. w450 meat",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/30 - J1823 flex belt conv. w450 meat", "files": [] }
+      ]
+    },
+    {
+      "name": "31 - Marel K 15 Killer",
+      "path": "pdf/Marel/1st Processing/Marel K 15 Killer",
+      "categories": [
+        { "name": "Documents", "path": "pdf/Marel/1st Processing/Marel K 15 Killer", "files": [] }
+      ]
+    }
+  ]
 }
