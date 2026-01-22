@@ -4,67 +4,139 @@
       "name": "00 Marel Equipment Training",
       "path": "pdf/Marel/1st Processing/00 Marel Equipment Training",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/00 Marel Equipment Training", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/00 Marel Equipment Training",
+          "files": []
+        }
       ]
     },
     {
-      "name": "1 - General Information",
+      "name": "1 - general information",
       "path": "pdf/Marel/1st Processing/1 - general information",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/1 - general information", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/1 - general information",
+          "files": [
+            { "title": "A-Ordering Spare Parts_90641_03__ENG", "file": "A-Ordering Spare Parts_90641_03__ENG.pdf" },
+            { "title": "C_Emergency Stop Provisions_90839_00_00_ENG", "file": "C_Emergency Stop Provisions_90839_00_00_ENG.pdf" },
+            { "title": "D-Fasteners,Lubricants_90897_01_ENG", "file": "D-Fasteners,Lubricants_90897_01_ENG.pdf" },
+            { "title": "E_Safety Labels_90840_02_ENG", "file": "E_Safety Labels_90840_02_ENG.pdf" },
+            { "title": "F_Technical Data Symbols_90819_02_ENG", "file": "F_Technical Data Symbols_90819_02_ENG.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "2 - B0124 Track Chain Lubricator",
+      "name": "2 - B0124 track chain lubricator",
       "path": "pdf/Marel/1st Processing/2 - B0124 track chain lubricator",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/2 - B0124 track chain lubricator", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/2 - B0124 track chain lubricator",
+          "files": [
+            { "title": "90688_03_00_ENG", "file": "90688_03_00_ENG.pdf" },
+            { "title": "3690111_02_F", "file": "3690111_02_F.pdf" },
+            { "title": "Sparepart-book 4696581 ENG_20191023_160900", "file": "Sparepart-book 4696581 ENG_20191023_160900.pdf" },
+            { "title": "Sparepart-book 4696586 ENG_20191023_161057", "file": "Sparepart-book 4696586 ENG_20191023_161057.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "3 - B0161 Overhead Conveyor Heavy Duty",
+      "name": "3 - B0161 overhead conveyor, Heavy Duty type",
       "path": "pdf/Marel/1st Processing/3 - B0161 overhead conveyor, Heavy Duty type",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/3 - B0161 overhead conveyor, Heavy Duty type", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/3 - B0161 overhead conveyor, Heavy Duty type",
+          "files": [
+            { "title": "90714_01_00__ENG", "file": "90714_01_00__ENG.pdf" },
+            { "title": "529834E_A", "file": "529834E_A.pdf" },
+            { "title": "Sparepart-book 4691195 ENG_20191023_165724", "file": "Sparepart-book 4691195 ENG_20191023_165724.pdf" },
+            { "title": "Sparepart-book 4694842 ENG_20191023_165941", "file": "Sparepart-book 4694842 ENG_20191023_165941.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "4 - B2728 Transfer System TRD-E F5",
+      "name": "4 - B2728 Transfer System, TRD-E F5 (11) 8",
       "path": "pdf/Marel/1st Processing/4 - B2728 Transfer System, TRD-E F5 (11) 8",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/4 - B2728 Transfer System, TRD-E F5 (11) 8", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/4 - B2728 Transfer System, TRD-E F5 (11) 8",
+          "files": [
+            { "title": "90861_01_ENG", "file": "90861_01_ENG.pdf" },
+            { "title": "3690246_01_B", "file": "3690246_01_B.pdf" },
+            { "title": "Sparepart-book 4696133 ENG_20191023_165958", "file": "Sparepart-book 4696133 ENG_20191023_165958.pdf" },
+            { "title": "Wayne FarmsUnion Springs, TRD-E F-5 Parts List", "file": "Wayne FarmsUnion Springs, TRD-E F-5 Parts List.docx" },
+            { "title": "Wayne, Union Springs, TRD-E F5", "file": "Wayne, Union Springs, TRD-E F5.docx" }
+          ]
+        }
       ]
     },
     {
-      "name": "5 - C0225 Viscera Shackle PC Nuova",
+      "name": "5 - C0225 viscera shackle PC Nuova",
       "path": "pdf/Marel/1st Processing/5 - C0225 viscera shackle PC Nuova",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/5 - C0225 viscera shackle PC Nuova", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/5 - C0225 viscera shackle PC Nuova",
+          "files": [
+            { "title": "Sparepart-book 1273402 ENG_20191023_200231", "file": "Sparepart-book 1273402 ENG_20191023_200231.pdf" },
+            { "title": "Sparepart-book 5185602 ENG_20191023_200308", "file": "Sparepart-book 5185602 ENG_20191023_200308.pdf" },
+            { "title": "Sparepart-book 5185702 ENG_20191023_200318", "file": "Sparepart-book 5185702 ENG_20191023_200318.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "6 - C0239 Evisc Shackle ESPC Nuova SHD",
+      "name": "6 - C0239 evisc. shackle ESPC Nuova SHD",
       "path": "pdf/Marel/1st Processing/6 - C0239 evisc. shackle ESPC Nuova SHD",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/6 - C0239 evisc. shackle ESPC Nuova SHD", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/6 - C0239 evisc. shackle ESPC Nuova SHD",
+          "files": [
+            { "title": "Sparepart-book 5225000 ENG_20191023_200339", "file": "Sparepart-book 5225000 ENG_20191023_200339.pdf" },
+            { "title": "Sparepart-book 5225200 ENG_20191023_200405", "file": "Sparepart-book 5225200 ENG_20191023_200405.pdf" },
+            { "title": "Sparepart-book 5225300 ENG_20191023_200420", "file": "Sparepart-book 5225300 ENG_20191023_200420.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "7 - C0706 High Pressure Water Pump",
+      "name": "7 - C0706 High-Pressure Water Pump",
       "path": "pdf/Marel/1st Processing/7 - C0706 High-Pressure Water Pump",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/7 - C0706 High-Pressure Water Pump", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/7 - C0706 High-Pressure Water Pump",
+          "files": [
+            { "title": "3690590_00_B", "file": "3690590_00_B.pdf" },
+            { "title": "Sparepart-book 5123201 ENG_20191023_200529", "file": "Sparepart-book 5123201 ENG_20191023_200529.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "8 - C0713 HP Water Pump 11kW",
+      "name": "8 - C0713 HP Water Pump 11kW (15hp)",
       "path": "pdf/Marel/1st Processing/8 - C0713 HP Water Pump 11kW (15hp)",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/8 - C0713 HP Water Pump 11kW (15hp)", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/8 - C0713 HP Water Pump 11kW (15hp)",
+          "files": [
+            { "title": "3690988_00_A", "file": "3690988_00_A.pdf" },
+            { "title": "Sparepart-book 1348000 ENG_20191023_202433", "file": "Sparepart-book 1348000 ENG_20191023_202433.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "9 - C0969 Vent Cutter VC-15 RS",
+      "name": "9 - C0969 vent cutter VC-15 RS",
       "path": "pdf/Marel/1st Processing/9 - C0969 vent cutter VC-15 RS",
       "categories": [
         {
@@ -75,7 +147,7 @@
             { "title": "3691619_00_D", "file": "3691619_00_D.pdf" },
             { "title": "C0706 High Pressure Water Pump", "file": "C0706 High Pressure Water Pump.pdf" },
             { "title": "C0969 VC-15 RS Vent Cutter", "file": "C0969 VC-15 RS Vent Cutter.pdf" },
-            { "title": "Sparepart Book 4693147", "file": "Sparepart-book 4693147 ENG_20191023_174018.pdf" }
+            { "title": "Sparepart-book 4693147 ENG_20191023_174018", "file": "Sparepart-book 4693147 ENG_20191023_174018.pdf" }
           ]
         }
       ]
@@ -84,154 +156,327 @@
       "name": "10 - C1076 Opening Machine VO-15 RS",
       "path": "pdf/Marel/1st Processing/10 - C1076 Opening Machine VO-15 RS",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/10 - C1076 Opening Machine VO-15 RS", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/10 - C1076 Opening Machine VO-15 RS",
+          "files": [
+            { "title": "3690400_02_E", "file": "3690400_02_E.pdf" },
+            { "title": "Sparepart-book 4693172 ENG_20191023_174243", "file": "Sparepart-book 4693172 ENG_20191023_174243.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "11 - C1148 Nuova 18",
+      "name": "11 - C1148 Nuova 18 (8)",
       "path": "pdf/Marel/1st Processing/11 - C1148 Nuova 18 (8)",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/11 - C1148 Nuova 18 (8)", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/11 - C1148 Nuova 18 (8)",
+          "files": [
+            { "title": "3690255_02_D", "file": "3690255_02_D.pdf" },
+            { "title": "C1148 Nuova 18", "file": "C1148 Nuova 18.pdf" },
+            { "title": "NUOVA Training", "file": "NUOVA Training.pdf" },
+            { "title": "NUOVA_settings", "file": "NUOVA_settings.pdf" },
+            { "title": "Sparepart-book 4696535 ENG_20191023_203230", "file": "Sparepart-book 4696535 ENG_20191023_203230.pdf" }
+          ]
+        }
       ]
     },
     {
       "name": "12 - C1238 Intestine Pack Unloading Station",
       "path": "pdf/Marel/1st Processing/12 - C1238 Intestine Pack Unloading Station",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/12 - C1238 Intestine Pack Unloading Station", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/12 - C1238 Intestine Pack Unloading Station",
+          "files": [
+            { "title": "90666_02_00__ENG", "file": "90666_02_00__ENG.pdf" },
+            { "title": "3690742_02_A", "file": "3690742_02_A.pdf" },
+            { "title": "Sparepart-book 5224002 ENG_20191023_203246", "file": "Sparepart-book 5224002 ENG_20191023_203246.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "13 - C1298 Control System for EV Line",
+      "name": "13 - C1298 Control system for EV line",
       "path": "pdf/Marel/1st Processing/13 - C1298 Control system for EV line",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/13 - C1298 Control system for EV line", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/13 - C1298 Control system for EV line",
+          "files": [
+            { "title": "Sparepart-book 4810247 ENG_20191023_203412", "file": "Sparepart-book 4810247 ENG_20191023_203412.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "14 - C1316 NPIS Inspection Station",
+      "name": "14 - C1316 NPIS Inspection station",
       "path": "pdf/Marel/1st Processing/14 - C1316 NPIS Inspection station",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/14 - C1316 NPIS Inspection station", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/14 - C1316 NPIS Inspection station",
+          "files": [
+            { "title": "99088_00__ENG", "file": "99088_00__ENG.pdf" },
+            { "title": "3691716_00_C", "file": "3691716_00_C.pdf" },
+            { "title": "Sparepart-book 4693626 ENG_20191023_203636", "file": "Sparepart-book 4693626 ENG_20191023_203636.pdf" },
+            { "title": "Sparepart-book 5280700 ENG_20191023_203637", "file": "Sparepart-book 5280700 ENG_20191023_203637.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "15 - C1325 GAM Pneumatic Adjust Stand",
+      "name": "15 - C1325 GAM Pneu. adj. stand",
       "path": "pdf/Marel/1st Processing/15 - C1325 GAM Pneu. adj. stand",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/15 - C1325 GAM Pneu. adj. stand", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/15 - C1325 GAM Pneu. adj. stand",
+          "files": [
+            { "title": "90936_00_00__ENG", "file": "90936_00_00__ENG.pdf" },
+            { "title": "Z1089 product presenter", "file": "Z1089 product presenter.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "16 - C1505 Intestine Gall Bladder Remover",
-      "path": "pdf/Marel/1st Processing/16 - C1505 IntestineGall-BladderRemover",
+      "name": "16 - C1505 IntestineGall-Bladder Remover",
+      "path": "pdf/Marel/1st Processing/16 - C1505 IntestineGall-Bladder Remover",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/16 - C1505 IntestineGall-BladderRemover", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/16 - C1505 IntestineGall-Bladder Remover",
+          "files": [
+            { "title": "90698_03_A_ENG", "file": "90698_03_A_ENG.pdf" },
+            { "title": "3690352_04_B", "file": "3690352_04_B.pdf" },
+            { "title": "Sparepart-book 5217203 ENG_20191023_205337", "file": "Sparepart-book 5217203 ENG_20191023_205337.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "17 - C1524 Liver Harvester PLH-15 RS",
+      "name": "17 - C1524 Liver harvester PLH-15 RS",
       "path": "pdf/Marel/1st Processing/17 - C1524 Liver harvester PLH-15 RS",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/17 - C1524 Liver harvester PLH-15 RS", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/17 - C1524 Liver harvester PLH-15 RS",
+          "files": [
+            { "title": "3691373_00_D", "file": "3691373_00_D.pdf" },
+            { "title": "Sparepart-book 4694811 ENG_20191023_205928", "file": "Sparepart-book 4694811 ENG_20191023_205928.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "18 - C1534 Gizzard Cutter PFC",
-      "path": "pdf/Marel/1st Processing/18 - C1534 gizz. cutter PFC",
+      "name": "18 - C1534 gizz. cutter PEC",
+      "path": "pdf/Marel/1st Processing/18 - C1534 gizz. cutter PEC",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/18 - C1534 gizz. cutter PFC", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/18 - C1534 gizz. cutter PEC",
+          "files": [
+            { "title": "3690745_00_A", "file": "3690745_00_A.pdf" },
+            { "title": "Sparepart-book 5200702 ENG_20191023_210135", "file": "Sparepart-book 5200702 ENG_20191023_210135.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "19 - C1902 Gizzard Washer Screw C2003",
-      "path": "pdf/Marel/1st Processing/19 - C1902 gizz washer screw C2003",
+      "name": "19 - C1902 gizz washconv screw icw C2003",
+      "path": "pdf/Marel/1st Processing/19 - C1902 gizz washconv screw icw C2003",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/19 - C1902 gizz washer screw C2003", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/19 - C1902 gizz washconv screw icw C2003",
+          "files": [
+            { "title": "3690621_01_B", "file": "3690621_01_B.pdf" },
+            { "title": "Sparepart-book 4697962 ENG_20191023_210456", "file": "Sparepart-book 4697962 ENG_20191023_210456.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "20 - C2003 Gizzard Inspection Table HP",
+      "name": "20 - C2003 gizz. insp.peel table HP",
       "path": "pdf/Marel/1st Processing/20 - C2003 gizz. insp.peel table HP",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/20 - C2003 gizz. insp.peel table HP", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/20 - C2003 gizz. insp.peel table HP",
+          "files": [
+            { "title": "1250900__ENG", "file": "1250900__ENG.pdf" },
+            { "title": "3690746_00_", "file": "3690746_00_.pdf" },
+            { "title": "Sparepart-book 1278902 ENG_20191023_210727", "file": "Sparepart-book 1278902 ENG_20191023_210727.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "21 - C3067 NIC-18V RS IO Wash",
+      "name": "21 - C3067 NIC-18V RS io wash",
       "path": "pdf/Marel/1st Processing/21 - C3067 NIC-18V RS io wash",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/21 - C3067 NIC-18V RS io wash", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/21 - C3067 NIC-18V RS io wash",
+          "files": [
+            { "title": "SPAREPART BOOK FOR IBM 4693574 ENG", "file": "SPAREPART BOOK FOR IBM 4693574 ENG.pdf" },
+            { "title": "Sparepart-book 4693574 ENG_20191023_211044", "file": "Sparepart-book 4693574 ENG_20191023_211044.pdf" },
+            { "title": "91000_01_A_ENG", "file": "91000_01_A_ENG.pdf" },
+            { "title": "SPAREPART-BOOK 4856128 ENG", "file": "SPAREPART-BOOK 4856128 ENG.pdf" },
+            { "title": "SPAREPART-BOOK 4856129 ENG", "file": "SPAREPART-BOOK 4856129 ENG.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "22 - C3739 Final Inspection Machine FIM RotoVac 15 RS",
+      "name": "22 - C3739 Final insp. mach. FIM RotoVac 15 RS",
       "path": "pdf/Marel/1st Processing/22 - C3739 Final insp. mach. FIM RotoVac 15 RS",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/22 - C3739 Final insp. mach. FIM RotoVac 15 RS", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/22 - C3739 Final insp. mach. FIM RotoVac 15 RS",
+          "files": [
+            { "title": "91013_04_C_ENG", "file": "91013_04_C_ENG.pdf" },
+            { "title": "3691076_00_F", "file": "3691076_00_F.pdf" },
+            { "title": "Sparepart-book 4693625 ENG_20191023_213159", "file": "Sparepart-book 4693625 ENG_20191023_213159.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "23 - C3841 Insouts Washer RW-12 RS",
+      "name": "23 - C3841 insouts washer RW-12 RS",
       "path": "pdf/Marel/1st Processing/23 - C3841 insouts washer RW-12 RS",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/23 - C3841 insouts washer RW-12 RS", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/23 - C3841 insouts washer RW-12 RS",
+          "files": [
+            { "title": "UNIT PARTS LIST", "file": "UNIT PARTS LIST.docx" },
+            { "title": "UNIT", "file": "UNIT.docx" },
+            { "title": "90965_01_A_ENG", "file": "90965_01_A_ENG.pdf" },
+            { "title": "3690377_03_E", "file": "3690377_03_E.pdf" },
+            { "title": "C0713 Hig Pressure Water Pump", "file": "C0713 Hig Pressure Water Pump.pdf" },
+            { "title": "C3841 In-Out RW-12", "file": "C3841 In-Out RW-12.pdf" },
+            { "title": "Sparepart-book 4693620 ENG_20191023_214050", "file": "Sparepart-book 4693620 ENG_20191023_214050.pdf" },
+            { "title": "Sparepart-book 4693623 ENG_20191023_214302", "file": "Sparepart-book 4693623 ENG_20191023_214302.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "24 - C4005 Unloading Station BR3 HS",
+      "name": "24 - C4005 unloading station BR3 HS",
       "path": "pdf/Marel/1st Processing/24 - C4005 unloading station BR3 HS",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/24 - C4005 unloading station BR3 HS", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/24 - C4005 unloading station BR3 HS",
+          "files": [
+            { "title": "93156_01_A_ENG", "file": "93156_01_A_ENG.pdf" },
+            { "title": "3690396_00_B", "file": "3690396_00_B.pdf" },
+            { "title": "Sparepart-book 5227002 ENG_20191023_221642", "file": "Sparepart-book 5227002 ENG_20191023_221642.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "25 - C5311 Shackle Washer L Shackle Guide",
+      "name": "25 - C5311 shackle washer L shackle guide",
       "path": "pdf/Marel/1st Processing/25 - C5311 shackle washer L shackle guide",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/25 - C5311 shackle washer L shackle guide", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/25 - C5311 shackle washer L shackle guide",
+          "files": [
+            { "title": "3690492_01_C", "file": "3690492_01_C.pdf" },
+            { "title": "Sparepart-book 4696590 ENG_20191023_222016", "file": "Sparepart-book 4696590 ENG_20191023_222016.pdf" }
+          ]
+        }
       ]
     },
     {
       "name": "26 - D2609 VAC C2x800 FIM-20",
       "path": "pdf/Marel/1st Processing/26 - D2609 VAC C2x800 FIM-20",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/26 - D2609 VAC C2x800 FIM-20", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/26 - D2609 VAC C2x800 FIM-20",
+          "files": [
+            { "title": "Sparepart-book 4698476 ENG_20191023_222050", "file": "Sparepart-book 4698476 ENG_20191023_222050.pdf" }
+          ]
+        }
       ]
     },
     {
       "name": "27 - D2617 Vacuum Installation VAC-160",
       "path": "pdf/Marel/1st Processing/27 - D2617 Vacuum Installation VAC-160",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/27 - D2617 Vacuum Installation VAC-160", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/27 - D2617 Vacuum Installation VAC-160",
+          "files": [
+            { "title": "3691441_00_E", "file": "3691441_00_E.pdf" },
+            { "title": "Sparepart-book 5212000 ENG_20191023_222058", "file": "Sparepart-book 5212000 ENG_20191023_222058.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "28 - D2618 Vacuum Installation",
+      "name": "28 - D2618 Vacuum installation",
       "path": "pdf/Marel/1st Processing/28 - D2618 Vacuum installation",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/28 - D2618 Vacuum installation", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/28 - D2618 Vacuum installation",
+          "files": [
+            { "title": "90775_01_A_ENG", "file": "90775_01_A_ENG.pdf" },
+            { "title": "3691517_00_B", "file": "3691517_00_B.pdf" },
+            { "title": "Sparepart-book 5273100 ENG_20191023_222324", "file": "Sparepart-book 5273100 ENG_20191023_222324.pdf" },
+            { "title": "Sparepart-book 5273100 ENG_20191023_222324_RESTORED_20250224_123604", "file": "Sparepart-book 5273100 ENG_20191023_222324_RESTORED_20250224_123604.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "29 - E2011 Drum Washer LW for Livers",
+      "name": "29 - E2011 drum washer LW for livers",
       "path": "pdf/Marel/1st Processing/29 - E2011 drum washer LW for livers",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/29 - E2011 drum washer LW for livers", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/29 - E2011 drum washer LW for livers",
+          "files": [
+            { "title": "3690599_01_A", "file": "3690599_01_A.pdf" },
+            { "title": "Sparepart-book 1433200 ENG_20191023_222543", "file": "Sparepart-book 1433200 ENG_20191023_222543.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "30 - J1823 Flex Belt Conveyor W450 Meat",
+      "name": "30 - J1823 flex belt conv. w450 meat",
       "path": "pdf/Marel/1st Processing/30 - J1823 flex belt conv. w450 meat",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/30 - J1823 flex belt conv. w450 meat", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/30 - J1823 flex belt conv. w450 meat",
+          "files": [
+            { "title": "3691750_00", "file": "3691750_00.pdf" },
+            { "title": "Sparepart-book 5217505 ENG_20191023_222749", "file": "Sparepart-book 5217505 ENG_20191023_222749.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "31 - Marel K 15 Killer",
+      "name": "Marel K 15 Killer",
       "path": "pdf/Marel/1st Processing/Marel K 15 Killer",
       "categories": [
-        { "name": "Documents", "path": "pdf/Marel/1st Processing/Marel K 15 Killer", "files": [] }
+        {
+          "name": "Documents",
+          "path": "pdf/Marel/1st Processing/Marel K 15 Killer",
+          "files": [
+            { "title": "91024_03_C_ENG", "file": "91024_03_C_ENG.pdf" },
+            { "title": "K-15 SN 10510930", "file": "K-15 SN 10510930.pdf" }
+          ]
+        }
       ]
     }
   ]
