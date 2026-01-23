@@ -327,7 +327,7 @@
             <button id="clearBtn" class="clearBtn" aria-label="Clear search" title="Clear">×</button>
           </div>
           <button id="backBtn" class="btn secondary" disabled>Back</button>
-          <button id="homeBtn" class="btn" onclick="location.href='/'">Home</button>
+          <a id="homeBtn" class="btn" href="https://wsfuspmaintenance.github.io/public-pdf-library/">Home</a>
         </div>
         <div class="metaRow">
           <div id="status">Loading…</div>
@@ -451,7 +451,6 @@ function goBack() {
   render();
 }
 
-homeBtn.onclick = goHome;
 backBtn.onclick = goBack;
 
 clearBtn.onclick = () => {
