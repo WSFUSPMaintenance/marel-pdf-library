@@ -324,10 +324,10 @@
         <div class="row">
           <div class="searchWrap">
             <input id="search" placeholder="Search Marel 1st Processing equipment, categories, manuals" autocomplete="off" inputmode="search">
-            <button id="clearBtn" class="clearBtn" aria-label="Clear search" title="Clear">×</button>
+            <button id="clearBtn" class="clearBtn">×</button>
           </div>
           <button id="backBtn" class="btn secondary" disabled>Back</button>
-          <a id="homeBtn" class="btn" href="https://wsfuspmaintenance.github.io/public-pdf-library/">Home</a>
+          <button id="homeBtn" class="btn">Home</button>
         </div>
         <div class="metaRow">
           <div id="status">Loading…</div>
@@ -399,35 +399,6 @@ function setWhereLine() {
   if (mode === "search") { whereEl.textContent = "Search"; return; }
 }
 
-function setCrumbs() {
-  crumbsEl.innerHTML = "";
-  crumbsEl.style.display = "none";
-
-  if (mode === "home" || mode === "search") return;
-
-  crumbsEl.style.display = "flex";
-
-  const addCrumb = (label, onclick, isCurrent) => {
-    const div = document.createElement("div");
-    div.className = "crumb" + (isCurrent ? " current" : "");
-    div.innerHTML = esc(label);
-    if (!isCurrent) div.onclick = onclick;
-    crumbsEl.appendChild(div);
-  };
-
-  addCrumb("Home", () => goHome(), false);
-
-  const mfg = data.folders[mfgIndex];
-  if (!mfg) return;
-
-  addCrumb(mfg.name, () => openMfg(mfgIndex), mode === "mfg");
-
-  if (mode === "cat") {
-    const cat = (mfg.categories || [])[catIndex];
-    if (cat) addCrumb(cat.name, () => {}, true);
-  }
-}
-
 function goHome() {
   mode = "home";
   mfgIndex = null;
@@ -441,16 +412,14 @@ function goBack() {
   if (mode === "cat") {
     mode = "mfg";
     catIndex = null;
-  } else if (mode === "mfg") {
-    goHome();
-    return;
-  } else if (mode === "search") {
+  } else if (mode === "mfg" || mode === "search") {
     goHome();
     return;
   }
   render();
 }
 
+homeBtn.onclick = goHome;
 backBtn.onclick = goBack;
 
 clearBtn.onclick = () => {
@@ -476,12 +445,8 @@ function render() {
 
   homeBtn.disabled = (mode === "home");
   backBtn.disabled = (mode === "home");
-  if (mode === "mfg") backBtn.disabled = false;
-  if (mode === "cat") backBtn.disabled = false;
-  if (mode === "search") backBtn.disabled = false;
 
   setWhereLine();
-  setCrumbs();
 
   if (mode === "home") {
     status.textContent = "Select an equipment group";
@@ -503,7 +468,7 @@ function renderManufacturers() {
     const fileCount = mfg._fileCount ?? 0;
     const sub = catCount + " categories" + (fileCount ? (", " + fileCount + " files") : "");
     html += `
-      <div class="tile" onclick="openMfg(${i})" role="button" tabindex="0">
+      <div class="tile" onclick="openMfg(${i})">
         <div class="tileTitle">${esc(mfg.name)}</div>
         <div class="tileSub">${esc(sub)}</div>
       </div>`;
@@ -534,7 +499,7 @@ function renderCategories() {
   cats.forEach((cat, i) => {
     const fc = safeLen(cat.files);
     html += `
-      <div class="tile" onclick="openCat(${i})" role="button" tabindex="0">
+      <div class="tile" onclick="openCat(${i})">
         <div class="tileTitle">${esc(cat.name)}</div>
         <div class="tileSub">${fc} files</div>
       </div>`;
@@ -568,7 +533,7 @@ function renderFiles() {
     const url = fileUrl(cat.path, f.file);
     const meta = mfg.name + " / " + cat.name;
     html += `
-      <a class="fileRow" href="${url}" target="_blank" rel="noopener">
+      <a class="fileRow" href="${url}" target="_blank">
         <div class="fileText">
           <div class="fileTitle">${esc(f.title)}</div>
           <div class="fileMeta">${esc(meta)}</div>
@@ -585,11 +550,6 @@ function renderSearch() {
   const q = qRaw.toLowerCase();
   status.textContent = "Search results";
   countEl.textContent = "";
-
-  if (!q) {
-    content.innerHTML = `<div class="empty">Type to search equipment groups, categories, and file titles.</div>`;
-    return;
-  }
 
   let results = [];
 
@@ -618,34 +578,17 @@ function renderSearch() {
 
   countEl.textContent = results.length ? (results.length + " results") : "0 results";
 
-  if (!results.length) {
-    content.innerHTML = `<div class="empty">No matches for <strong>${esc(qRaw)}</strong>. Try a shorter term.</div>`;
-    return;
-  }
-
   let html = `<div class="list">`;
   results.forEach(r => {
     if (r.type === "file") {
       html += `
-        <a class="fileRow" href="${r.url}" target="_blank" rel="noopener">
+        <a class="fileRow" href="${r.url}" target="_blank">
           <div class="fileText">
             <div class="fileTitle">${esc(r.label)}</div>
             <div class="fileMeta">${esc(r.context)}</div>
           </div>
           <div class="openPill">Open</div>
         </a>`;
-    } else if (r.type === "cat") {
-      html += `
-        <div class="tile" onclick="openMfg(${r.mi}); openCat(${r.ci})" role="button" tabindex="0">
-          <div class="tileTitle">${esc(r.label)} <span class="pill">Category</span></div>
-          <div class="tileSub">${esc(r.context)}</div>
-        </div>`;
-    } else {
-      html += `
-        <div class="tile" onclick="openMfg(${r.mi})" role="button" tabindex="0">
-          <div class="tileTitle">${esc(r.label)} <span class="pill">Group</span></div>
-          <div class="tileSub">${(data.folders[r.mi]._catCount ?? 0)} categories</div>
-        </div>`;
     }
   });
   html += `</div>`;
@@ -663,7 +606,7 @@ fetch("folders_marel_1st.json", { cache: "no-store" })
   })
   .catch(() => {
     status.textContent = "Error loading folders_marel_1st.json";
-    content.innerHTML = `<div class="empty">Could not load folders_marel_1st.json. Confirm it is in the same folder as marel-1st.html and valid JSON.</div>`;
+    content.innerHTML = `<div class="empty">Could not load folders_marel_1st.json.</div>`;
   });
 </script>
 </body>
