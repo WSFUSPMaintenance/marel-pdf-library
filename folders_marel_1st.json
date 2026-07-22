@@ -321,6 +321,8 @@
           "name": "Documents",
           "path": "pdf/Marel/1st Processing/21 - C3067 NIC-18V RS io wash",
           "files": [
+            { "title": "3690966_00_F", "file": "3690966_00_F.pdf" },
+            { "title": "3690966_00_G", "file": "3690966_00_G.pdf" },
             { "title": "SPAREPART BOOK FOR IBM 4693574 ENG", "file": "SPAREPART BOOK FOR IBM 4693574 ENG.pdf" },
             { "title": "Sparepart-book 4693574 ENG_20191023_211044", "file": "Sparepart-book 4693574 ENG_20191023_211044.pdf" },
             { "title": "91000_01_A_ENG", "file": "91000_01_A_ENG.pdf" },
